@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## pet supplies
 
-You can use the [editor on GitHub](https://github.com/zhegou/zhegou.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Promotions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### pet information
 
-### Markdown
+The Pug was officially named "Pug" at the end of the 18th century. It is a considerate and cute small dog breed. This dog has an excellent clean personality. These characteristics are the reasons for its popularity. The pug's head is large, heavy, not arched, apple-shaped, with a forehead not set back, very bright, full of enthusiasm when excited, large and deep wrinkles, prominent and eye-catching, eyes serene and full of desire. The Pug has a stable, cheerful, gentle, and lively temperament, making it ideal for keeping in urban apartments, especially as a family companion dog for the elderly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhegou/zhegou.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
