@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 deploy:
   type: git
   repo: https://github.com/zhegou/zhegou.github.io.git
-  branch: master
+  branch: main
